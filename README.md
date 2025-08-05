@@ -1,11 +1,11 @@
-# Paint
+# Painting
 
 # Keyboard commands
-## key "r" changing colort to red
-## key "b" changing colort to blue
-## key "w" goto up
-## key "d" goto right
-## key "s" goto down
-## key "a" goto left
+## key "r" changing color to red
+## key "b" changing color to blue
+## key "w" to up
+## key "d" to right
+## key "s" to down
+## key "a" to left
 ## key "f" fill
 ## key "e" end fill
